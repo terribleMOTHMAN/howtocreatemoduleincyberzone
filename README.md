@@ -267,5 +267,5 @@ router.include_router(organizations_router, prefix="/organizations", tags=["Orga
 `from cyberzone.organizations.endpoints import router as organizations_router` - импортируем наш роутер, который мы написали
 `router.include_router(organizations_router, prefix="/organizations", tags=["Organizations"])` - добавляем его в основной (ГЛАВНЫЙ) роутер
 
-Вуаля! Вы написали модуль! Вопросы? Пишите в тг: (@terribleMOTHMAN)[https://t.me/terribleMOTHMAN]
+Вуаля! Вы написали модуль! Вопросы? Пишите в тг: [@terribleMOTHMAN](https://t.me/terribleMOTHMAN)
 ![image](https://github.com/terribleMOTHMAN/howtocreatemoduleincyberzone/assets/65505901/1822817c-2c52-4333-b523-f9f5c8b1b148)
